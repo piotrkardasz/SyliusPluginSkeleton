@@ -1,0 +1,2 @@
+services:
+    SensioLabs\Security\Command\SecurityCheckerCommand: ~
